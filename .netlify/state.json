@@ -1,0 +1,17 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Holland",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "MI",
+				"name": "Michigan"
+			}
+		},
+		"timestamp": 1659969521050
+	}
+}
